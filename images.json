@@ -1,0 +1,19 @@
+[
+  "images/photo1.jpg",
+  "images/photo2.jpg",
+  "images/photo3.jpg"
+]
+```
+
+4. Click **Commit new file**
+
+---
+
+## What your repo structure should look like when done
+```
+bgscroller/
+├── images/
+│   ├── photo1.jpg
+│   ├── photo2.jpg
+│   └── photo3.jpg
+└── images.json
